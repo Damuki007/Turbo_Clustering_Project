@@ -67,7 +67,7 @@ Key features driving the segmentation include but are not limited to; loan age, 
 
   ├── Turbo_Aug_23_24_Clustering.ipynb - Jupyter notebook containing detailed analysis and results
 
-  ├── Turbo_Clustering_Presentation.pptx/ - Powerpoint presentation summarizing result findings
+  ├── Turbo_Clustering_Presentation.pptx - Powerpoint presentation summarizing result findings
 
   ├── requirements.txt - List of required Python packages
 
