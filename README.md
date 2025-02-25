@@ -76,7 +76,7 @@ Key features driving the segmentation include but are not limited to; loan age, 
 ## Author Contact Info:
 For further information or questions regarding this project, please contact:
 
-David Kirianja [Author]
-dmkirianja@gmail.com
-www.linkedin.com/in/david-mutugi-dmk007n
+- David Kirianja [Author]
+- dmkirianja@gmail.com
+- www.linkedin.com/in/david-mutugi-dmk007n
 
